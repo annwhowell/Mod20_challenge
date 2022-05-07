@@ -7,7 +7,7 @@
 
 # Used the Remix IDE and Solidity to create and test the blockchain
 
-![<Code: Set contract and variables>](<contractname_andvariables.png)>)
+![<Code: Set contract and variables>](<contractname_and_variables.png)>)
 
 
 ![<Code: Deposit function>](<deposit_function.png>)
@@ -27,9 +27,9 @@
 
 ![<Deposit 5 ether as ether>](<Execution_results/deposit_5ether.png>)
 
-![<Withdraw 5 ether into Account 1>](<Execution_results/5eth_toacct1.png>)
+![<Withdraw 5 ether into Account 1>](<Execution_results/5ether_toacct1.png>)
 
-![<Withdraw 10 ether into Account 2>](<Execution_results/10eth_toacct2.png>)
+![<Withdraw 10 ether into Account 2>](<Execution_results/10ether_toacct2.png>)
 
 ![<Last to Withdraw evidence>](<Execution_results/last_to_withdraw.png>)
 
