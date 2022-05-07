@@ -7,13 +7,11 @@
 
 # Used the Remix IDE and Solidity to create and test the blockchain
 
-![Code: Set contract and variables](<contractname_and_variables.png)>)
+#Code: Set contract and variables
+![<Code: Deposit function>](<deposit_function.png>)
 
-
-![Code: Deposit function](<deposit_function.png>)
-
-
-![Code: Withdraw function](<withdraw_function.png>)
+#Code: Withdraw function
+![<Code: Withdraw function>](<withdraw_function.png>)
 
 
 # Results
@@ -21,17 +19,23 @@
 #Used pragma solidity ^0.5.0;
 #Used Javascript VM in Remix to test the blockchain functionality
 
-![Deposit 1 ether as wei](<Execution_results/deposit_1ether_aswei.png>)
+#Deposit 1 ether as wei
+![<Deposit 1 ether as wei>](<Execution_results/deposit_1ether_aswei.png>)
 
-![Deposit 10 ether as wei](<Execution_results/deposit_10ether_aswei.png>)
+#Deposit 10 ether as wei
+![<Deposit 10 ether as wei>](<Execution_results/deposit_10ether_aswei.png>)
 
-![Deposit 5 ether as ether](<Execution_results/deposit_5ether.png>)
+#Deposit 5 ether as ether
+![<Deposit 5 ether as ether>](<Execution_results/deposit_5ether.png>)
 
-![Withdraw 5 ether into Account 1](<Execution_results/5ether_toacct1.png>)
+#Withdraw 5 ether into Account 1
+![<Withdraw 5 ether into Account 1>](<Execution_results/5ether_toacct1.png>)
 
-![Withdraw 10 ether into Account 2](<Execution_results/10ether_toacct2.png>)
+#Withdraw 10 ether into Account 2
+![<Withdraw 10 ether into Account 2>](<Execution_results/10ether_toacct2.png>)
 
-![Last to Withdraw evidence](<Execution_results/last_to_withdraw.png>)
+#Last to Withdraw evidence
+![<Last to Withdraw evidence>](<Execution_results/last_to_withdraw.png>)
 
 # Created By
 
